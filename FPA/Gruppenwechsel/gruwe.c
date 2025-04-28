@@ -1,4 +1,4 @@
-//Natnal Feleke - gruwe.c´
+//Natnal Feleke - gruwe.c
 
 #include <stdio.h>
 
